@@ -8,7 +8,7 @@
 
 <br/>
 
-![Adaniki GitHub](https://github-readme-stats.vercel.app/api?username=adaniki69&show_icons=true&theme=dracula)
+![Adaniki GitHub](https://github-readme-stats.vercel.app/api?username=adaniki-dev&show_icons=true&theme=dracula)
 
 <br/>
 <br/>
